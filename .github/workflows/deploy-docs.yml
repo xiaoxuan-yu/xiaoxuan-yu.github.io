@@ -44,7 +44,7 @@ jobs:
           folder: src/.vuepress/dist
 
       - name: 部署到 aliyun
-        uses: mdallasanta/ssh-scp-deploy@{version}
+        uses: mdallasanta/ssh-scp-deploy@v1.2.0
         with:
           local: 'src/.vuepress/dist'                                                  # Local file path - REQUIRED false - DEFAULT ./
           remote: '/home/git/blog-vue'                                                 # Remote file path - REQUIRED false - DEFAULT ~/
