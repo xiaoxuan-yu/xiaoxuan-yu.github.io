@@ -1,18 +1,18 @@
 ---
-title: 通过AutoHotkey脚本实现Latex的输入优化
+title: 通过 AutoHotkey 脚本实现 Latex 的输入优化
 date: 2020-06-21 22:31:54
 tag:
   - Auto Hot Key
   - LaTeX
-category: 
+category:
   - 技术
 ---
 
-通过AHK脚本实现了如下功能:
+通过 AHK 脚本实现了如下功能:
 
-- 若干关键词的快速输入(\frac,\mathscr,\mathrm,\bold)
-- 箭头的快速输入(双向箭头,左、右箭头及长箭头)
-- 希腊字母的快速输入('@'作为关键字，区分大小写)
+- 若干关键词的快速输入 (\frac,\mathscr,\mathrm,\bold)
+- 箭头的快速输入 (双向箭头, 左、右箭头及长箭头)
+- 希腊字母的快速输入 ('@'作为关键字，区分大小写)
 
 <!--more-->
 
@@ -32,7 +32,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :o?:<--::\longleftarrow ; <--
 :o:<-::\leftarrow; <-
 :o?:=::\ =\{Space}
-:o:@a::\alpha  
+:o:@a::\alpha
 :o:@b::\beta
 :o:@c::\chi
 :oc:@d::\delta

@@ -22,4 +22,7 @@ export default defineUserConfig({
       // 你的选项
     }),
   ],
+  head: [
+    ['link', { rel: 'icon', href: '/atom-2.svg' }]
+  ]
 });

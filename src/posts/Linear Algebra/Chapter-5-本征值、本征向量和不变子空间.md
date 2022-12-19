@@ -34,7 +34,7 @@ $$U=\{\lambda v:\lambda=\bf F\}$$
 		- $T-\lambda I$不是可逆的
 - 本征向量  
 设$T\in\mathcal L(V)$,并设$\lambda\in\bf F$是T的本征值,称向量$v\in V$为$T$的相应于$\lambda$的本征向量,如果$v\neq 0$且$Tv=\lambda v$
-	- **线性无关的本征向量 **   
+	- **线性无关的本征向量**   
 	设$T\in\mathcal L(V)$.设$\lambda_1,...,\lambda_m$是$T$的互不相关的本征值,并设$v_1,...,v_m$是相应的本征向量,则$v_1,...,v_m$是线性无关的.  
 	推论:算子的互异本征值的个数不超过向量空间的维数
 

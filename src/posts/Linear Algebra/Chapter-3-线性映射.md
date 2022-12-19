@@ -162,7 +162,7 @@ $$Tv_j=w_j$$
 	- $T^\prime$的零空间    
 	  设$V$和$W$均为有限维,$T\in \mathcal L(V,W)$.则:
 	  - $\mathrm{null} T^{\prime}=(\mathrm{range}T)^0$
-	  - $\mathrm{dim\ null}\ T^{\prime}=\mathrm{dim\ null}\ T+\mathrm{dim}\ W-\mathrm{dim}\ V $   
+	  - $\mathrm{dim\ null}\ T^{\prime}=\mathrm{dim\ null}\ T+\mathrm{dim}\ W-\mathrm{dim}\ V$   
 	
 	  $\Rightarrow T$是满的等价于$T^\prime$是单的
 	- $T^\prime$的值域    
