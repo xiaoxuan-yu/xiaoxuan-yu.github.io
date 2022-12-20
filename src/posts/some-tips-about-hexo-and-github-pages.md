@@ -38,7 +38,9 @@ cnpm install hexo --save
 hexo init
 ```
 - 进入根目录，打开_config.yml 进行基本的配置
+
 ![](https://cdn.jsdelivr.net/gh/xiaoxuan-yu/Youmans-Blog/img/%E6%89%B9%E6%B3%A8%202020-05-01%20204111.jpg)
+
 配置项非常清楚，可以根据自己的信息进行设置
 
 - 更换主题：进入 [Theme|Hexo](https://hexo.io/themes/) 选择你喜欢的主题，进入根目录，打开 Git Bash，执行(xxx 为该主题的地址)：
