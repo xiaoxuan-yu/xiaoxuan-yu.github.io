@@ -92,8 +92,8 @@ export default hopeTheme({
       figure: true,
       flowchart: true,
       gfm: true,
-      imageLazyload: true,
-      imageSize: true,
+      imgLazyload: true,
+      imgSize: true,
       include: true,
       katex: true,
       mark: true,
@@ -122,6 +122,12 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: true,
+    },
+    components: {
+      // 你想使用的组件
+      components: [
+        "PDF",
+      ],
     },
 
     // uncomment these if you want a PWA

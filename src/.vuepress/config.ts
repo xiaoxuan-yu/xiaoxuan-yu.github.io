@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { searchPlugin } from '@vuepress/plugin-search'
+import { searchPlugin } from '@vuepress/plugin-search';
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default defineUserConfig({
   base: "/",
@@ -21,8 +22,15 @@ export default defineUserConfig({
     searchPlugin({
       // 你的选项
     }),
+    //componentsPlugin({
+    //  componentOptions: {
+    //    pdf: {
+    //      pdfjs: "/assets/lib/pdfjs"
+    //    }
+    //  }
+    //})
   ],
   head: [
     ['link', { rel: 'icon', href: '/atom-2.svg' }]
-  ]
+  ],
 });

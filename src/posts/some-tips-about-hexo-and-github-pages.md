@@ -5,6 +5,7 @@ tag:
     - Hexo
     - Github pages
     - Gitalk
+    - Blog
 category:
     - 技术
 ---
