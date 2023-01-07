@@ -5,10 +5,11 @@ tag:
 	- Linear Algebra
 category: 
 	- 线性代数学习笔记
+isOriginal: true
 ---
 线性代数学习笔记第八章，参考教材为《Linear Algebra Done Right》。
 
-<!--more-->
+<!-- more -->
 
 
 ## 8.A 广义本征向量和幂零算子

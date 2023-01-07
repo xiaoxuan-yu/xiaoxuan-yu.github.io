@@ -5,11 +5,12 @@ tag:
 	- Linear Algebra
 category: 
 	- 线性代数学习笔记
+isOriginal: true
 ---
 
 线性代数学习笔记第一章，参考教材为《Linear Algebra Done Right》。
 
-<!--more-->
+<!-- more -->
 
 ## $\bf R^n \& \bf C^n$
 

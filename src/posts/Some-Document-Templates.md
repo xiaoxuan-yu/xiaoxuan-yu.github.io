@@ -5,10 +5,10 @@ tag:
   - LaTeX
 category:
   - 技术
-mathjax: true
+isOriginal: true
 ---
 自用的几个 $\LaTeX$ 模板
-<!--more-->
+<!-- more -->
 
 ## 报告模板（有标题页）
 

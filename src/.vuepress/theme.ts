@@ -44,8 +44,8 @@ export default hopeTheme({
       blog: {
         description: "学化学的",
         intro: "/intro.html",
-        avatar: "/head.jpg",
-        roundAvatar: true,
+        avatar: "/head-small.webp",
+        //roundAvatar: true,
         sidebarDisplay: "mobile"
       },
     },
@@ -84,13 +84,13 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       attrs: true,
-      chart: true,
+      //chart: true,
       codetabs: true,
       container: true,
-      demo: true,
+      //demo: false,
       echarts: true,
       figure: true,
-      flowchart: true,
+      //flowchart: true,
       gfm: true,
       imgLazyload: true,
       imgSize: true,
@@ -98,12 +98,12 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      //playground: {
+      //  presets: ["ts", "vue"],
+      //},
+      //presentation: {
+      //  plugins: ["highlight", "math", "search", "notes", "zoom"],
+      //},
       stylize: [
         {
           matcher: "Recommended",
@@ -120,8 +120,8 @@ export default hopeTheme({
       sub: true,
       sup: true,
       tabs: true,
-      vPre: true,
-      vuePlayground: true,
+      vPre: false,
+      vuePlayground: false,
     },
     components: {
       // 你想使用的组件

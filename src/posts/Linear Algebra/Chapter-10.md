@@ -5,10 +5,11 @@ tag:
 	- Linear Algebra
 category: 
 	- 线性代数学习笔记
+isOriginal: true
 ---
 线性代数学习笔记第十章，参考教材为《Linear Algebra Done Right》。
 
-<!--more-->
+<!-- more -->
 
 
 ## 10.A 迹

@@ -5,10 +5,11 @@ tag:
 	- Linear Algebra
 category: 
 	- 线性代数学习笔记
+isOriginal: true
 ---
 线性代数学习笔记第七章，参考教材为《Linear Algebra Done Right》。
 
-<!--more-->
+<!-- more -->
 
 
 ## 7.A 自伴算子和正规算子

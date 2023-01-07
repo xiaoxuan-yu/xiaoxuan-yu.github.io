@@ -7,11 +7,12 @@ tags:
   - Jupyter Notebook
 category:
   - 技术
+isOriginal: true
 ---
 
 Maxima 是著名的开源计算机代数系统，本文记录了作者的安装和前端配置的过程，希望给后来者参考。以下内容以 Manjaro Linux 为例
 
-<!--more-->
+<!-- more -->
 
 ## Maxima 的安装
 
