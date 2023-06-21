@@ -1,7 +1,7 @@
 ---
 title: 计算机代数系统 Maxima 的安装和 Jupyter Notebook 作为其前端的配置
 date: 2020-07-31 09:53:05
-tags:
+tag:
   - CAS
   - Maxima
   - Jupyter Notebook

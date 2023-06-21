@@ -14,7 +14,7 @@ export const zhNavbar = navbar([
       {
         text: "线性代数笔记",
         icon: "edit",
-        prefix: "/posts/Linear Algebra/",
+        prefix: "/文章/Linear Algebra/",
         children: [
           { text: "向量空间", icon: "edit", link: "Chapter-1-向量空间" },
           { text: "有限维向量空间", icon: "edit", link: "Chapter-2-有限维向量空间" },
@@ -41,8 +41,13 @@ export const zhNavbar = navbar([
     link: "/category/"
   },
   {
+    text: "时间轴",
+    icon: "time",
+    link: "/timeline"
+  },
+  {
     text: "关于",
     icon: "profile",
     link: "/intro"
-  },
+  }
 ]);

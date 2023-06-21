@@ -6,7 +6,7 @@ export const zhSidebar = sidebar({
     {
       text: "文章",
       icon: "note",
-      prefix: "posts/",
+      prefix: "文章/",
       children: "structure",
     },
     "intro",

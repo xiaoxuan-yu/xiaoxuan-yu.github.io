@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Home
+title: 首页
 heroText: Youmans' Blog
 heroFullScreen: true
 bgImage: "/asakura.webp"

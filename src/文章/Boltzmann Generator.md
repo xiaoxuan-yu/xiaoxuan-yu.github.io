@@ -1,6 +1,6 @@
 ---
 title: Boltzmann Generator
-date: 2023-01-06 10:47
+date: 2023-01-06 10:47:00
 tag:
   - Machine Learning
   - Enhanced Sampling

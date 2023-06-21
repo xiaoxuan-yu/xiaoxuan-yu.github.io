@@ -14,6 +14,8 @@ export default hopeTheme({
 
   logo: "/atom-2.svg",
   logoDark: "/atom-2-dark.svg",
+  breadcrumbIcon: false,
+  print: true,
 
   //repo: "vuepress-theme-hope/vuepress-theme-hope",
 

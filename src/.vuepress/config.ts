@@ -79,6 +79,20 @@ export default defineUserConfig({
     //})
   ],
   head: [
-    ['link', { rel: 'icon', href: '/atom-2.svg' }]
+    ['link', { rel: 'icon', href: '/atom-2.svg' }],
+    [
+      "link",
+      {
+        href: "/fonts/HND.css",
+        rel: "stylesheet",
+      },
+    ],
+    [
+      "link",
+      {
+        href: "/fonts/HNT.css",
+        rel: "stylesheet",
+      },
+    ],
   ],
 });
